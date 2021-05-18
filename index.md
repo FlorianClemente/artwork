@@ -1,48 +1,35 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-
+  
 <img src="/images/Soir_d'ete1.jpg" alt="Soir d'été" width="1000" height="700">
 <h2>Soir d'Été (after Van Gogh), Oil on Canvas, 70 x 100 cm</h2>
+  
+<img src="/images/DSC_0791e.jpg" alt="Starry night over the Rhône" width="1000" height="700">
+<h2>Starry Night Over the Rhône (after Van Gogh), Oil on Canvas, 70 x 100 cm</h2>  
+  
+<img src="/images/yellowHouse.jpeg" alt="Yellow house" width="800" height="600">
+<h2>The Yellow House (after Van Gogh), Oil on Canvas, 60 x 80 cm cm</h2> 
+  
+<img src="/images/DSC_0784e.jpg" alt="Vincent's chair" width="600" height="800">
+<h2>Vincent's Chair, Oil on Canvas, 60 x 80 cm</h2>  
+  
+<img src="/images/DSC_0783e.jpg" alt="Wheatfield under a stormy sky" width="1000" height="500">
+<h2>Wheatfield under a Stormy Sky (after Van Gogh), Oil on Canvas, 60 x 120 cm</h2>  
+  
+<img src="/images/DSC_0787e.jpg" alt="Imperial Fritillaries" width="500" height="600">
+<h2>Imperial Fritillaries in a Copper Vase (after Van Gogh), Oil on Canvas, 50 x 60 cm</h2> 
+  
+<img src="/images/DSC_0789e.jpg" alt="Luzie with Irises" width="500" height="600">
+<h2>Luzie with Irises, Oil on Canvas, 50 x 60 cm</h2>  
+  
+<img src="/images/DSC_0779e.jpg" alt="Portrait of a Girl" width="680" height="780">
+<h2>Portrait of a Girl, Oil on Canvas, 50 x 60 cm</h2>    
+  
+<img src="/images/DSC_0314e.jpg" alt="La Lavandera" width="620" height="800">
+<h2>La Lavandera (after Ernest Hébert), Oil on Canvas, 60 x 80 cm</h2>   
 
 </body>
 </html>
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/FlorianClemente/artwork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FlorianClemente/artwork/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
