@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<img src="/images/Soir_d'ete1.jpg" alt="Soir d'été" width="1000" height="700">
+<h2>Soir d'Été (after Van Gogh), Oil on Canvas, 70 x 100 cm</h2>
+
+</body>
+</html>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FlorianClemente/artwork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
