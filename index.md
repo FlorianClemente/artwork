@@ -1,6 +1,6 @@
-# Florian Clemente - Artwork
+r# Florian Clemente - Artwork
 
-My passion for painting started while I lived in the South of France, where I got inspired by encountering many of the original landscapes painted by Vincent Van Gogh. Over the last few years, I have taught myself to paint by trying to replicate some of Vincent's works or borrowing some of his ideas and combining them with mine. More recently, I have also collected experiences in other painting styles and I am curious to see where this will lead me to...
+My passion for painting started while I lived in the South of France, where I got inspired by encountering many of the original landscapes eternalized by Vincent Van Gogh. Over the last few years, I taught myself to paint by trying to replicate some of Vincent's works or borrowing some of his ideas and combining them with mine. More recently, I have also collected experiences in other painting styles and I am curious to see where this will lead me to...
 
 ![Soir d'été](/images/Soir_d'ete1.jpg)
 Soir d'Été (after Van Gogh), Oil on Canvas, 70 x 100 cm
