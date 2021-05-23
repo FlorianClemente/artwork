@@ -21,12 +21,14 @@ p.ex1 {
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}  
-body {
-  background-image: url("https://florianclemente.github.io/artwork/images/DSC_0276e.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-}
+.hero-image {
+  background-image: url("https://florianclemente.github.io/artwork/images/DSC_0276e.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}    
 a:link {
   color: #383838; 
   background-color: transparent; 
